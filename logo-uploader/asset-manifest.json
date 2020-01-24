@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/logo-uploader/static/css/main.4dbb23c3.chunk.css",
+    "main.js": "/logo-uploader/static/js/main.9448d233.chunk.js",
+    "main.js.map": "/logo-uploader/static/js/main.9448d233.chunk.js.map",
+    "runtime-main.js": "/logo-uploader/static/js/runtime-main.8fd84030.js",
+    "runtime-main.js.map": "/logo-uploader/static/js/runtime-main.8fd84030.js.map",
+    "static/js/2.351f79e3.chunk.js": "/logo-uploader/static/js/2.351f79e3.chunk.js",
+    "static/js/2.351f79e3.chunk.js.map": "/logo-uploader/static/js/2.351f79e3.chunk.js.map",
+    "index.html": "/logo-uploader/index.html",
+    "precache-manifest.9fa587a307e8a8425399c078ea779ccb.js": "/logo-uploader/precache-manifest.9fa587a307e8a8425399c078ea779ccb.js",
+    "service-worker.js": "/logo-uploader/service-worker.js",
+    "static/css/main.4dbb23c3.chunk.css.map": "/logo-uploader/static/css/main.4dbb23c3.chunk.css.map",
+    "static/js/2.351f79e3.chunk.js.LICENSE": "/logo-uploader/static/js/2.351f79e3.chunk.js.LICENSE",
+    "static/media/index.scss": "/logo-uploader/static/media/ProximaNova-Regular.b7c51278.eot",
+    "static/media/building.svg": "/logo-uploader/static/media/building.2db17e0c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd84030.js",
+    "static/js/2.351f79e3.chunk.js",
+    "static/css/main.4dbb23c3.chunk.css",
+    "static/js/main.9448d233.chunk.js"
+  ]
+}
